@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Keresem a gazdim!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loginhere">Már van fiókod?<u>Jelentkezz be!</u></string>
+    <string name="regitt">Új vagy itt? <u>Regisztrálj!</u></string>
+    <string name="gender_unknown">Ismeretlen</string>
+    <string name="gender_male">Hím</string>
+    <string name="gender_female">Nőstény</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
